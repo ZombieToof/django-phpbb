@@ -11,7 +11,7 @@ setup (
     url='http://code.google.com/p/django-phpbb/',
     license='COPYING',
     description='Access unmodified PhpBB3 database with Django',
-    long_description=open('README').read(),
+    long_description=open('README.md').read(),
     install_requires=[
         "Django >= 1.4",
     ],
